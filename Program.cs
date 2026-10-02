@@ -5,5 +5,6 @@ class Program
     static void Main()
     {
         Console.WriteLine("Лабораторная работа №3: Visual Studio + Git");
+        Console.WriteLine("Второй коммит: программа обновлена.");
     }
 }
